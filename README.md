@@ -29,9 +29,11 @@ setelah di download
 ### Running 
  buka dua terminal untuk (fe dan be)
  
- untuk be ketik npm start
+ ### untuk be 
+ ketik npm start
  
- untuk fe kerik npm run dev
+ ### untuk fe 
+ ketik npm run dev
  
  ### Mohon maaf baru mulai mencoba vue3
  so untuk edit belum bisa 
