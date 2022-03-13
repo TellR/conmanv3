@@ -18,12 +18,13 @@ setelah di download
 ### Instal Vue dan kancanya
  untuk be dan fe 
  buka 2 terminal arahkan ke folder BE dan FE
- terminal 1
-   cd backend
-   npm install
- terminal 2
-   cd frontend
-   npm install
+ *. terminal 1
+   1. cd backend
+   2. npm install
+ *. Terminal 2
+   1. cd frontend
+   2. npm install
+
 ### Running 
  buka dua terminal untuk (fe dan be)
  
