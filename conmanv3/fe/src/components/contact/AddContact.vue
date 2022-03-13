@@ -88,6 +88,9 @@ import ContactDataService from "../../services/ContactDataService";
     closeModal() {
         this.$emit('close-modal');
     },
+    reloadPage() {
+      window.location.reload();
+    },
     saveContact() {
       var data = {
         nama: this.contact.nama,
@@ -100,7 +103,7 @@ import ContactDataService from "../../services/ContactDataService";
           this.contact.id = response.data.id;
           console.log(response.data);
           this.submitted = true;
-          this.$router.push({name: 'contact-list'});
+          this.reloadPage();
         })
         .catch(e => {
           console.log(e);
