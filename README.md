@@ -18,10 +18,11 @@ setelah di download
 ### Instal Vue dan kancanya
  untuk be dan fe 
  buka 2 terminal arahkan ke folder BE dan FE
-####. terminal 1
+ 
+### terminal 1
    1. cd backend
    2. npm install
-###. Terminal 2
+### Terminal 2
    1. cd frontend
    2. npm install
 
@@ -29,6 +30,7 @@ setelah di download
  buka dua terminal untuk (fe dan be)
  
  untuk be ketik npm start
+ 
  untuk fe kerik npm run dev
  
  ### Mohon maaf baru mulai mencoba vue3
