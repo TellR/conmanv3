@@ -32,8 +32,12 @@ setelah di download
  ### untuk be 
  ketik npm start
  
+ kemudian buka browser dan ketik http://localhost:8070
+ 
  ### untuk fe 
  ketik npm run dev
+ 
+ kemudian buka browser dan ketik http://localhost:8071
  
  ### Mohon maaf baru mulai mencoba vue3
  so untuk edit belum bisa 
